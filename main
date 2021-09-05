@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>MRB Workshop</title>
+	<link rel="icon" type="image/PNG" href="./icon.JPG">
+	<style type="text/css">
+		body
+		{
+			margin:0px;
+			padding:0px;
+		}
+		#navbar p,a,#kkk
+		{
+			font-size:22px; 
+			font-style:serif; 
+			text-decoration:none;
+			margin-left:1%;
+			margin-right:0%;
+			margin-top:1%;
+			color:#F2F0F0;
+			padding:0px;
+		}
+		@keyframes gaga 
+		{
+		  0%   { background-color:#F2F0F0; color:#111111}
+		  100%  {background-color:#52b788; color:#111111}
+		}
+		body
+		{
+			background-color:#cad2c5;
+		}
+		#h1
+		{
+			color:white;
+			text-align:center;
+			padding-top:20vh;
+			font-size:2vw;
+		}
+	</style>
+</head>
+<body>
+	<section style="width:100%; background-color:#111111;">
+		<img src="icon.jpg" style="width:30%; height:40vh; position:relative; left:34%">
+		
+		<div id="navbar" style="color:white; width:100%; height:10vh; background-color:#111111; position:fixed; left:0px; top:0px; z-index:3; display:flex; margin-right:5vh;">
+			<span style="margin-top:1%;">
+				<a href="https://www.facebook.com/rafikbouarrou"><img src="facebook.png" style="width:3%;"></a>
+				<a href="https://www.instagram.com/mrb.buildingworkshop/"><img src="instagram.png" style="width:3%;"></a>
+				<a href="#"><img src="twitter.png" style="width:3%;"></a>	
+			</span>
+
+  			<span id="kkk"style="position:absolute; right:0px; ">
+  				<span style="margin-right:10px;">
+  					<img src="mail.png" style="width:6%;">
+  					<span style="font-size:1.5vw; ">raf.ikmohamed@outlook.fr</span>
+  				</span>
+  				<span style="margin-right:10px;">
+  					<img src="phone.png" style="width:8%; z-index:3; height:5vh;">
+  					<!-- --> 
+	  				
+	  				 <!-- -->
+	  				<a href="tel:0792538340">
+	  					<span style="animation-name:gaga; animation-duration:1s; animation-iteration-count:infinite;">
+	  						0792538340
+	  					</span>
+	  				</a>
+	  				
+	  			</span>
+  			</span>		
+		</div>
+	</section>	
+	<br>
+	<section style="width:100%;">
+		<div style="width:50%; height:50%;  background:#000814; position:absolute; top:auto; z-index:2; opacity:95%;">
+			<!-- MESSAGE responsive text
+			<p><font style="font-size:10vw; position:absolute; left:2%; top:20%;" face="arial" color="white" align="center"> PROJET 1 </font></p>
+			-->
+			<h1 id="h1">Conception Architecturale </h1>
+		</div>
+		<div>
+			<img src="mr2.jpg" style="background-repeat:no-repeat;height:auto; width:50%; height:50vh; margin:0px; padding:0px; position:absolute; top:auto; right:0px;">
+		</div>	
+	</section>
+	<br>
+	<section style="width:100%; height:auto ;margin-top:50vh;">
+		<div style="width:50%; height:50%;  background:#001219; position:absolute;  right:0px;top:auto; z-index:2; opacity:80%;">
+			<h1 id="h1">Conception Architecturale </h1>
+		</div>
+		<div>
+			<img src="best.jpg" style="background-repeat:no-repeat;height:auto; width:50%; height:50vh; margin:0px; padding:0px; position:absolute; top:auto; left:0px;">
+
+		</div>
+	</section>
+	<br>
+	<section style="width:100%; height:auto ;margin-top:50vh;">
+		<div style="width:50%; height:50%;  background:#113f3d; position:absolute; top:auto; z-index:2; opacity:95%;">
+			<h1 id="h1">Conception Architecturale </h1>
+		</div>
+		<div>
+			<img src="suivi.jpg" style="background-repeat:no-repeat;height:auto; width:50%; height:50vh; margin:0px; padding:0px; position:absolute; top:auto; right:0px;">
+		</div>	
+	</section>
+	<br>
+	<section style="width:100%; height:auto ;margin-top:50vh;">
+		<div style="width:50%; height:50%;  background:#1b3a4b; position:absolute; right:0px; top:auto; z-index:2; opacity:95%;">
+			<h1 id="h1">Conception Architecturale </h1>
+		</div>
+		<div>
+			<img src="x2.jpg" style="background-repeat:no-repeat;height:auto; width:50%; height:50vh; margin:0px; padding:0px; position:absolute; top:auto; left:0px;">
+		</div>	
+	</section>
+	<br>
+	<section style="width:100%; height:auto ;margin-top:50vh;">
+		<div style="width:50%; height:50%;  background:#231e33; position:absolute; top:auto; z-index:2; opacity:95%;">
+			<h1 id="h1">Conception Architecturale </h1>
+		</div>
+		<div>
+			<img src="x3.jpg" style="background-repeat:no-repeat;height:auto; width:50%; height:50vh; margin:0px; padding:0px; position:absolute; top:auto; right:0px;">
+		</div>	
+	</section>
+	<br>
+	<section style="width:100%; height:auto ;margin-top:50vh;">
+		<div style="width:50%; height:50%;  background:#140103; position:absolute; right:0px; top:auto; z-index:2; opacity:95%;">
+			<h1 id="h1">Conception Architecturale </h1>
+		</div>
+		<div>
+			<img src="x4.jpg" style="background-repeat:no-repeat;height:auto; width:50%; height:50vh; margin:0px; padding:0px; position:absolute; top:auto; left:0px;">
+		</div>	
+	</section>
+	<br>
+	<section style="width:100%; height:auto ;margin-top:50vh;">
+		<div style="width:50%; height:50%;  background:#3d0109; position:absolute; top:auto; z-index:2; opacity:95%;">
+			<h1 id="h1">Conception Architecturale </h1>
+		</div>
+		<div>
+			<img src="x6.jpg" style="background-repeat:no-repeat;height:auto; width:50%; height:50vh; margin:0px; padding:0px; position:absolute; top:auto; right:0px;">
+		</div>	
+	</section>
+	<br>
+	<section style="width:100%; height:auto ;margin-top:50vh;">
+		<div style="width:50%; height:50%;  background:#220901; position:absolute; right:0px; top:auto; z-index:2; opacity:95%;">
+			<h1 id="h1">Conception Architecturale </h1>
+		</div>
+		<div>
+			<img src="x5.jpg" style="background-repeat:no-repeat;height:auto; width:50%; height:50vh; margin:0px; padding:0px; position:absolute; top:auto; left:0px;">
+		</div>	
+	</section>
+	<br>
+	<section style="width:100%; height:auto ;margin-top:50vh;">
+		<div style="width:50%; height:50%;  background:#211103; position:absolute; top:auto; z-index:2; opacity:95%;">
+			<h1 id="h1">Conception Architecturale </h1>
+		</div>
+		<div>
+			<img src="x7.jpg" style="background-repeat:no-repeat;height:auto; width:50%; height:50vh; margin:0px; padding:0px; position:absolute; top:auto; right:0px;">
+		</div>	
+	</section>
+	<br>
+	<section style="width:100%; background-color:#160b07; height:50vh; margin-top:50vh; margin-bottom:0px;">
+		<h1 style="color:white; text-align:center;"> 
+			<font style="font-family:system-ui; font-size:8vh;">
+				Nous font Confiance : 
+			</font>
+		</h1>
+		<img src="mlm.png" style="margin:5%; width:15%; height:6vh; ">
+		<br>
+	</section>
+	<br>
+	<footer style="width:100%; height :30vh; background-color:#000000; text-align:center; color:white; padding-top:10%;">
+		<div>
+			<span style="margin-top:1%;">
+				<a href="https://www.facebook.com/rafikbouarrou"><img src="facebook.png" style="width:3%;border-radius:50%;"></a>
+				<a href="https://www.instagram.com/mrb.buildingworkshop/"><img src="instagram.png" style="width:3%;border-radius:50%;"></a>
+				<a href="#"><img src="twitter.png" style="width:3%;border-radius:50%;"></a>	
+			</span>
+		</div>
+		
+	</footer>
+</body>
+</html>
